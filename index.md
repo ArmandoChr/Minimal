@@ -10,6 +10,9 @@ __Customer Service Agent__ (Debt Collection) │ Kredinor
 __Student Ambassador__ │ The University of Sheffield
 * Presented my experiences at the university of Sheffield to future students and their guardians
 
+__Leader of Charity__ │ The Kaliningrad Project
+* Raised money for mentally disabled children in Kaliningrad, Russia
+
 ### Coding Projects
 __Data cleaning__
 * Cleaning raw data from Fifa 21
