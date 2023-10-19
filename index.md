@@ -1,8 +1,7 @@
 # Student
 
 ### Education
-BSc Economics with Finance
-_The University of Sheffield_
+__BSc Economics with Finance__ │ The University of Sheffield
 
 ### Work Experience
 __Customer Service Agent__ (Debt Collection) │ Kredinor
@@ -11,5 +10,7 @@ __Customer Service Agent__ (Debt Collection) │ Kredinor
 __Student Ambassador__ │ The University of Sheffield
 * Presented my experiences at the university of Sheffield to future students and their guardians
 
-
-
+### Coding Projects
+__Data cleaning__
+* Cleaning raw data from Fifa 21
+  
