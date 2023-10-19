@@ -2,6 +2,7 @@
 
 ### Education
 __BSc Economics with Finance__ │ The University of Sheffield
+* Expected a 2:1
 
 ### Work Experience
 __Customer Service Agent__ (Debt Collection) │ Kredinor
