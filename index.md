@@ -17,6 +17,6 @@ __Leader of Charity__ │ The Kaliningrad Project
 ### Coding Projects
 __Data cleaning__
 * [Cleaning raw data from Fifa 21](https://github.com/ArmandoChr/Portfolio/blob/master/Data_Cleaning.ipynb)
-* [Analysing survey data on IT eemployees](https://github.com/ArmandoChr/Portfolio/blob/master/Survey%20Analysis.ipynb)
+* [Analysing survey data on IT eemployees](https://github.com/ArmandoChr/Portfolio/blob/master/Survey%20Analysis%20(3).ipynb)
   
   
