@@ -21,7 +21,7 @@ __Data cleaning__
   
   
 ### Noticeable work at University
-* [Behavior of inteerest rates](https://github.com/ArmandoChr/Portfolio/blob/master/ECN220%20-%20Applied%20portfolio.docx)
+* [Behavior of interest rates](https://github.com/ArmandoChr/Portfolio/blob/master/ECN220%20-%20Applied%20portfolio.docx)
 * [Impact of Brexit-induced policy uncertainty on UK exports](https://github.com/ArmandoChr/Portfolio/blob/master/Do%20file%20-%20Group%205.do)
   * [Data in Brexit folder](https://github.com/ArmandoChr/Portfolio/tree/master/Brexit)
 * [Theoreitcal analysis of the effect of increased oil prices on aggregate level of supply in UK](https://github.com/ArmandoChr/Portfolio/blob/master/Coursework%202.docx)
