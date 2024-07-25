@@ -1,1 +1,1 @@
-My CV on Github with links to Coding projects
+My Portfolio with varying projects. See ReadMe file
