@@ -24,4 +24,4 @@ __Data cleaning__
 * [Personal Reflections Throughout University](https://github.com/ArmandoChr/Portfolio/blob/master/Courseworks/S1-PersonalReflection.docx)
 * [Environmental Economics Coursework](https://github.com/ArmandoChr/Portfolio/blob/master/Courseworks/ECN310%20-%20Environmental%20Economics%20Discussions.docx)
 * [Exploration of the Depreciation Puzzle](https://github.com/ArmandoChr/Portfolio/blob/master/Courseworks/ECN340-DeppreciationPuzzle.pdf)
-  *[.do File](https://github.com/ArmandoChr/Portfolio/blob/master/Courseworks/ECN340-DepPuzzle.do)
+  * [.do File](https://github.com/ArmandoChr/Portfolio/blob/master/Courseworks/ECN340-DepPuzzle.do)
