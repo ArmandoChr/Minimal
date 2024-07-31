@@ -16,7 +16,7 @@ __Data cleaning__
   
 ### Noticeable work at University
 * [Behavior of interest rates](https://github.com/ArmandoChr/Portfolio/blob/master/STATA%20files/Interest%20Rate%20analysis/ECN220Finance%20-%20Interest%20Rate%20Analysis.docx)
-  [STATA .do file](https://github.com/ArmandoChr/Portfolio/blob/master/STATA%20files/Interest%20Rate%20analysis/Interest%20Rate%20Analysis.do)
+  * [STATA .do file](https://github.com/ArmandoChr/Portfolio/blob/master/STATA%20files/Interest%20Rate%20analysis/Interest%20Rate%20Analysis.do)
 * [Impact of Brexit-induced policy uncertainty on UK exports](https://github.com/ArmandoChr/Portfolio/blob/master/Do%20file%20-%20Group%205.do)
   * [Data in Brexit folder](https://github.com/ArmandoChr/Portfolio/tree/master/STATA%20files/Brexit)
 * [Theoreitcal analysis of the effect of increased oil prices on aggregate level of supply in UK](https://github.com/ArmandoChr/Portfolio/blob/master/Courseworks/ECN130-Oil%20Prices.docx)
