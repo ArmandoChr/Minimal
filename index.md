@@ -1,28 +1,27 @@
-# Student
+# Graduate
 
 ### Education
 __BSc Economics with Finance__ │ The University of Sheffield
-* Expected a 2:1
-
-### Work Experience
-__Customer Service Agent__ (Debt Collection) │ Kredinor
-* Created payment plans with customers of Santander and Sparebank 1
-
-__Student Ambassador__ │ The University of Sheffield
-* Presented my experiences at the university of Sheffield to future students and their guardians
-
-__Leader of Charity__ │ The Kaliningrad Project
-* Raised money for mentally disabled children in Kaliningrad, Russia
+* Upper Second-Class Honours
 
 ### Coding Projects
+
+__Models__
+* [TSLA](https://github.com/ArmandoChr/Portfolio/blob/master/Models/TSLA.xlsx)
+* [GOOG](https://github.com/ArmandoChr/Portfolio/blob/master/Models/GOOG.ods)
+ 
 __Data cleaning__
 * [Cleaning raw data from Fifa 21](https://github.com/ArmandoChr/Portfolio/blob/master/Data_Cleaning.ipynb)
 * [Analysing survey data on IT eemployees](https://github.com/ArmandoChr/Portfolio/blob/master/Survey%20Analysis%20(3).ipynb)
   
-  
 ### Noticeable work at University
-* [Behavior of interest rates](https://github.com/ArmandoChr/Portfolio/blob/master/ECN220%20-%20Applied%20portfolio.docx)
+* [Behavior of interest rates](https://github.com/ArmandoChr/Portfolio/blob/master/STATA%20files/Interest%20Rate%20analysis/ECN220Finance%20-%20Interest%20Rate%20Analysis.docx)
+  [STATA .do file](https://github.com/ArmandoChr/Portfolio/blob/master/STATA%20files/Interest%20Rate%20analysis/Interest%20Rate%20Analysis.do)
 * [Impact of Brexit-induced policy uncertainty on UK exports](https://github.com/ArmandoChr/Portfolio/blob/master/Do%20file%20-%20Group%205.do)
-  * [Data in Brexit folder](https://github.com/ArmandoChr/Portfolio/tree/master/Brexit)
-* [Theoreitcal analysis of the effect of increased oil prices on aggregate level of supply in UK](https://github.com/ArmandoChr/Portfolio/blob/master/Coursework%202.docx)
-  
+  * [Data in Brexit folder](https://github.com/ArmandoChr/Portfolio/tree/master/STATA%20files/Brexit)
+* [Theoreitcal analysis of the effect of increased oil prices on aggregate level of supply in UK](https://github.com/ArmandoChr/Portfolio/blob/master/Courseworks/ECN130-Oil%20Prices.docx)
+* [Policy Brief on Universal Basic Income](https://github.com/ArmandoChr/Portfolio/blob/master/Courseworks/ECN327-B1-UniversalBasicIncome%20Brief.docx)
+* [Personal Reflections Throughout University](https://github.com/ArmandoChr/Portfolio/blob/master/Courseworks/S1-PersonalReflection.docx)
+* [Environmental Economics Coursework](https://github.com/ArmandoChr/Portfolio/blob/master/Courseworks/ECN310%20-%20Environmental%20Economics%20Discussions.docx)
+* [Exploration of the Depreciation Puzzle](https://github.com/ArmandoChr/Portfolio/blob/master/Courseworks/ECN340-DeppreciationPuzzle.pdf)
+  *[.do File](https://github.com/ArmandoChr/Portfolio/blob/master/Courseworks/ECN340-DepPuzzle.do)
