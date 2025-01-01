@@ -1,3 +1,8 @@
+Jan 1st Update:
+NOT a new year's resolution, but I have to start updating this frfr because I will be lookinig for more analytical job lol. 
+
+Back to ReadMe:
+
 My Portfolio with varying projects. Most coding/model projects are continously changed so see time stamp on what is to be downloaded. Contact me for the up to date models if I have forgot to update them here.
 
 Make note that STATA files require depository to be selected of folder with .dta file. Available for download too, always on line 1 in STATA .do file so change to your own folder
