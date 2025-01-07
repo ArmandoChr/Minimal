@@ -1,0 +1,53 @@
+Add to existing module. Will identify cells of equal value with dictionary, for each unique in dict give colour, and ensures that colours have some constraints to them (my coworkers are old).
+
+Sub HighlightCellsWithDistinctRandomColors()
+    Dim rng As Range
+    Dim cell As Range
+    Dim dict As Object
+    Dim value As Variant
+    Dim randomColor As Long
+    
+    ' Set range to check for matching values (modify the range as needed)
+    Set rng = ThisWorkbook.Sheets("Sheet1").Range("A1:A200") 
+
+    ' Create a dictionary for cells of same value
+    Set dict = CreateObject("Scripting.Dictionary")
+
+    ' Clear existing fill for the range
+    rng.Interior.colorIndex = xlNone
+
+    ' Group cells by their value
+    For Each cell In rng
+        value = cell.value
+        If value <> "" Then
+            If Not dict.Exists(value) Then
+                dict.Add value, New Collection
+            End If
+            dict(value).Add cell
+        End If
+    Next cell
+
+    ' Apply colour if repeated value
+    Randomize
+    For Each value In dict.Keys
+        If dict(value).count > 1 Then
+            ' constraints to colour
+            Do
+                redComponent = Int(256 * Rnd)
+                greenComponent = Int(256 * Rnd)
+                blueComponent = Int(256 * Rnd)
+            Loop Until Abs(redComponent - greenComponent) > 50 And _
+                      Abs(redComponent - blueComponent) > 50 And _
+                      Abs(greenComponent - blueComponent) > 50
+            
+            randomColor = RGB(redComponent, greenComponent, blueComponent)
+            
+            ' Apply colours
+            For Each cell In dict(value)
+                cell.Interior.color = randomColor
+            Next cell
+        End If
+    Next value
+End Sub
+
+
